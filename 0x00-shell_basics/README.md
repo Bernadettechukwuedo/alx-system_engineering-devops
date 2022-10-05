@@ -1,0 +1,1 @@
+#!/bin/bash is to change the mode
